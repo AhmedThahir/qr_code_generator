@@ -1,1 +1,3 @@
-# qr_code_generator
+# QR Code Generator
+
+using segno Python Package
