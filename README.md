@@ -1,3 +1,9 @@
 # QR Code Generator
 
-using segno Python Package
+I don't really like online qr code generator solutions, so I made one using `segno` Python Package.
+
+## Steps
+
+1. Open the script
+2. Type the text to encode
+3. That's it! ✨
