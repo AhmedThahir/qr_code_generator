@@ -4,6 +4,6 @@ I don't really like online qr code generator solutions, so I made one using `seg
 
 ## Steps
 
-1. Open the script
+1. Run the script
 2. Type the text to encode
 3. That's it! ✨
